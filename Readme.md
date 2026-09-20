@@ -1,7 +1,7 @@
 # Tugas Praktikum 1 (TP1) DPBO - Sistem Manajemen Film Bioskop
 
 ## JANJI
-Saya Muhiban Fadlan Nursaid dengan NIM [Isi NIM Kamu] mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Muhiban Fadlan Nursaid dengan NIM 2400382 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ---
 
