@@ -1,0 +1,16 @@
+# C++ Build Files
+*.exe
+*.o
+*.out
+
+# Java Compiled Bytecode
+*.class
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+
+# IDE & System Files
+.vscode/
+.idea/
+.DS_Store
